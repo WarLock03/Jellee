@@ -1,3 +1,6 @@
+## Downloads
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/WarLock03/https%3A%2F%2Fgithub.com%2FWarLock03%2FJellee%2Freleases%2Fdownload%2F1.1_beta%2FJelleeNovels.apk/latest/total?sort=date&style=for-the-badge&logo=Android)
+
 ## Welcome to Jellee
 > Jellee is a powerful android application for downloading light novels. It comes with a lot of useful features and friendly UI for user friendly experience.
 > Downloading light novels in epub format is way to easy in this application. Support official translation including it's premium version and fan translation from various sources.
